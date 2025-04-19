@@ -11,7 +11,11 @@ You're working on our mobile app and need to implement an "Invite a Friend" feat
 
 We need you to get acclimated with the code base, get it running, and be ready to help Goo out on shipping some new features next week 🚢.
 
-JD (our product manager) is prepping the stories ✅. Thanks!
+JD (our product manager) is prepping the stories ✅. 
+
+In the meantime we encourage you to install Cursor and try out "cmd+k" for inline edditing and "cmd+l" for chat suggestions. Play with the code and try implementing some things you think JD will need. 
+
+Thanks!
 
 ## Get started
 
