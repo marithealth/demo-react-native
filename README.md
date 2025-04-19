@@ -3,9 +3,15 @@ Demo:
 https://github.com/user-attachments/assets/6409e5e2-8507-47a0-b08c-23ddb06e0262
 
 
-# Welcome to your Expo app 👋
+# Welcome to Marit's Demo React Native App 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+You're working on our mobile app and need to implement an "Invite a Friend" feature. Fortunately, Oscar was able to get your started but he has won the lottery 💰 and is traveling the world for the next year.
+
+We need you to get acclimated with the code base, get it running, and be ready to help Goo out on shipping some new features next week 🚢.
+
+JD (our product manager) is prepping the stories ✅. Thanks!
 
 ## Get started
 
@@ -30,15 +36,6 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 ## Learn more
 
